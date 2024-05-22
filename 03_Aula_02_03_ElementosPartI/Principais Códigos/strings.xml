@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="titulo">App 02/03</string>
+    <string name="texto">Escolha as opções abaixo:</string>
+    <string name="pericles">Péricles</string>
+    <string name="cbBlackSabbath">Black Sabbath</string>
+    <string name="cbManuelGomes">Manuel Gomes</string>
+    <string name="btnVerificar">Verificar</string>
+    <string name="txtNome">Digite vosso nome</string>
+</resources>
